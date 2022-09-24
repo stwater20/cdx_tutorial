@@ -1,15 +1,8 @@
 # CDX 使用手冊
 
-## 網址
 
 https://cdx.nchc.org.tw/
 
-
-## 限制
-
-* CPU: 2 core
-* RAM: 8 G
-* VM: 2 台
 
 ## 方法
 
