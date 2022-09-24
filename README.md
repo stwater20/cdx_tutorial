@@ -4,12 +4,6 @@
 
 https://cdx.nchc.org.tw/
 
-## 帳號/密碼
-
-帳號： t{學號}@ntut.edu.tw
-密碼： cySun!{學號}
-
-> 假設我學號是 t111599005 那帳號就會是 t111599005@ntut.edu.tw, 密碼也一樣模式
 
 ## 限制
 
@@ -41,8 +35,4 @@ https://www.fortinet.com/tw/support/product-downloads
 
 https://www.putty.org/
 
-## 疑難雜症
 
-可寄信至 t111599004@ntut.edu.tw 
-
-標題請打上 [網路安全] + 學號 + 問題
