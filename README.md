@@ -28,4 +28,6 @@ https://www.fortinet.com/tw/support/product-downloads
 
 https://www.putty.org/
 
+## 贊助
 
+https://www.buymeacoffee.com/stwater20
